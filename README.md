@@ -11,7 +11,7 @@ hey hey this is looking good
 hey this is probable shit you
 
 so step 1 is to make a chnage
-step2 is to add using '.' or '<filename>'
+step2 is to add using '.' or 'filename'
 
 step3 commit with some descriptions
 step4 push!!!
