@@ -1,3 +1,3 @@
 # Demo
 
-hello this is a repo \n hey this is interesting!!
+hello this is a repo hey this is interesting!!
