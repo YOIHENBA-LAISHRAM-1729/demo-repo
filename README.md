@@ -5,8 +5,11 @@ hello this is a repo hey this is interesting!!
 hey this is a new line
 
 # DESCRIPTION
-
-
+## GIT is Quite Nice 
+it has to be good and i am all for it!!!!
+## Shit I have test Tomorrow 
+gotta study hard for shit that won't matter
+after two days
 this is a description
 hey hey this is looking good
 
